@@ -31,3 +31,8 @@ code {
   border-color: #789395;
 }
 
+.collapse{
+  display: flex;
+  justify-content: space-between;
+}
+
